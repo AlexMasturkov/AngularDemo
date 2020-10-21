@@ -1,0 +1,18 @@
+ul {
+  padding: 0;
+  display: flex;
+  list-style: none;
+}
+
+ul li a {
+  text-decoration: none;
+  padding: 8px 20px;
+  background-color: steelblue;
+  color: white;
+  margin: 3px;
+  box-shadow: 1px 1px 3px black;
+}
+
+ul li a:hover {
+  background-color: grey;
+}
