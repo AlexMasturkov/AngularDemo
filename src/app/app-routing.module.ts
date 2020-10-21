@@ -9,8 +9,7 @@ const routes: Routes = [
   {
     path:'contact',
     component:ContactComponent,
-    pathMatch:'full',
-   
+    pathMatch:'full',   
     },
     {
       path:'home',
